@@ -1,0 +1,29 @@
+body{
+    background-color : rgb(255, 187, 0);
+}
+h1 { 
+    text-align : center;
+    background-color: red;
+    border : 4px ;
+    color : rgb(0, 255, 200);
+    font-size : 40px;
+}
+h2{
+    font-size : 30px;
+    background-color: blueviolet;
+    color :rgb(238, 255, 0)
+}
+.about {
+    font-size : 25px;
+    color : rgba(34, 13, 77, 0.575);
+    background-color : rgb(123, 255, 47);
+    border : 4px brown;
+    font-style : italic;
+}
+.puja {
+    font-size : 25px;
+    color :rgba(34, 13, 77, 0.575);
+    background-color : rgb(47, 255, 193);
+    border : 4px brown;
+    font-style : italic;
+}
